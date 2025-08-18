@@ -135,7 +135,7 @@ const EventsPage = () => {
           <ul>
             <li>Blog</li>
             <li>FAQ</li>
-            <li>Testimonials</li>
+            <li>Testimonials</li>git credential-cache exit
           </ul>
           <div>
             <p>© Copyright 2025 Legacy and Liberation Collective</p>
