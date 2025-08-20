@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sharma/static/css/main.ccbbdcc2.css",
-    "main.js": "/Sharma/static/js/main.f5eeefe1.js",
-    "static/js/453.96453769.chunk.js": "/Sharma/static/js/453.96453769.chunk.js",
-    "index.html": "/Sharma/index.html",
-    "main.ccbbdcc2.css.map": "/Sharma/static/css/main.ccbbdcc2.css.map",
-    "main.f5eeefe1.js.map": "/Sharma/static/js/main.f5eeefe1.js.map",
-    "453.96453769.chunk.js.map": "/Sharma/static/js/453.96453769.chunk.js.map"
+    "main.css": "/Project/static/css/main.ccbbdcc2.css",
+    "main.js": "/Project/static/js/main.7bc2b78b.js",
+    "static/js/453.96453769.chunk.js": "/Project/static/js/453.96453769.chunk.js",
+    "index.html": "/Project/index.html",
+    "main.ccbbdcc2.css.map": "/Project/static/css/main.ccbbdcc2.css.map",
+    "main.7bc2b78b.js.map": "/Project/static/js/main.7bc2b78b.js.map",
+    "453.96453769.chunk.js.map": "/Project/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccbbdcc2.css",
-    "static/js/main.f5eeefe1.js"
+    "static/js/main.7bc2b78b.js"
   ]
 }
