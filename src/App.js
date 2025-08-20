@@ -18,7 +18,7 @@ const EventsPage = () => {
           <ul className="nav-links">
             <li><a href="#about">About Us</a></li>
             <li><a href="#services">What We Do</a></li>
-            <li className="active"><a>Events</a></li>
+            <li className="active"><a href="#events">Events</a></li>
           </ul>
           <div className="nav-buttons">
             <button className="btn btn-contact">Contact</button>
@@ -265,9 +265,9 @@ const EventsPage = () => {
                 </ul>
                 <div className="footer-contact-section">
                   <div className="social-links">
-                    <a href="#" aria-label="Twitter" className="social-link">𝕏</a>
-                    <a href="#" aria-label="Instagram" className="social-link">📷</a>
-                    <a href="#" aria-label="Facebook" className="social-link">f</a>
+                    <a href="https://twitter.com" aria-label="Twitter" className="social-link">𝕏</a>
+                    <a href="https://instagram.com" aria-label="Instagram" className="social-link">📷</a>
+                    <a href="https://facebook.com" aria-label="Facebook" className="social-link">f</a>
                   </div>
                   <p className="contact-email">info@legacyandliberationcollective.com</p>
                 </div>
